@@ -1,0 +1,7 @@
+.score-section {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  color: white;
+  font-size: 1.5rem;
+}

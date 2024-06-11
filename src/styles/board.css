@@ -1,0 +1,17 @@
+h1 {
+  color: var(--accent);
+}
+
+.restart > img {
+  width: 2.5vw;
+}
+
+.restart {
+  position: absolute;
+  top: 50vh;
+  right: 3vw;
+  transition: transform 300ms ease-in-out;
+}
+.restart:hover {
+  transform: rotate(30deg);
+}
